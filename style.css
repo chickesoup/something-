@@ -1,0 +1,18 @@
+body{
+    background:linear-gradient( rgb(22, 22, 51) 0% ,rgb(255, 186, 58) 100%);
+    text-align: center;
+    margin:10px;
+
+}
+#apps{
+    margin:10px;
+    background-color:whitesmoke;
+}
+#games{
+    margin:10px;
+    background-color:blueviolet;
+}
+#chatbot{
+    margin:10px;
+    background-color:greenyellow;
+}
